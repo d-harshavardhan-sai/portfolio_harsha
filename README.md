@@ -101,6 +101,73 @@ Contributions are welcome! Please open issues or pull requests for improvements 
 
  ---
 
+## 📸 Screenshots
+### 🎨 1. Design UI  
+<img src="https://github.com/user-attachments/assets/e55b75ed-4604-4b58-8880-ff6f3b36023f" width="400"/>
+
+---
+
+### 🔢 2. Animated Counter (Work Done Up to Now)  
+<img src="https://github.com/user-attachments/assets/802d1d72-c745-4c25-9733-e74b290e1af1" width="400"/>
+
+---
+
+### 💼 3. Projects Section (Showcase Section)  
+<img src="https://github.com/user-attachments/assets/f8764b5a-fd1e-4ec2-aa2b-d58870cf6dc1" width="400"/>
+
+---
+
+### 🧱 4. Tech Stack (3D logos using GSAP)  
+<img src="https://github.com/user-attachments/assets/44c3671b-8511-4ee7-bde7-4ac8603fe0c6" width="400"/>
+
+---
+
+### 📬 5. Contact Page (EmailJS Integrated Inputs)  
+<img src="https://github.com/user-attachments/assets/3869c2b1-e54e-450e-b31b-583bb80b6ff6" width="400"/>
+
+---
+
+### 🧭 6. Footer with Icons  
+<img src="https://github.com/user-attachments/assets/bb07b446-8eb9-4eb9-9c3f-16c95f378a45" width="400"/>
+
+---
+
+### 🌐 7. EmailJS Website (Send emails directly from client-side apps)  
+<img src="https://github.com/user-attachments/assets/a8965670-244b-41be-b442-abd3634385ed" width="400"/>
+
+---
+
+### 📝 8. Created a Customised Email Template  
+<img src="https://github.com/user-attachments/assets/d2032080-4fb9-4064-8e42-1b401e3aedb9" width="400"/>
+
+---
+
+### 🆔 9. Gmail Service ID  
+<img src="https://github.com/user-attachments/assets/efad7775-e263-4ee1-b6bd-3c535bafb6df" width="400"/>
+
+---
+
+### 💌 10. Client Message History  
+<img src="https://github.com/user-attachments/assets/90a2368f-18e6-4246-993e-ff509b4ed998" width="400"/>
+
+---
+
+### 📆 11. Events  
+<img src="https://github.com/user-attachments/assets/9e69b58f-9f87-4cc2-88e1-1a3a4229d064" width="400"/>
+
+---
+
+### 👤 12. Service Account (My Account)  
+<img src="https://github.com/user-attachments/assets/bb1eb961-c4dd-4096-8002-035e0c8874eb" width="400"/>
+
+---
+
+### 📥 13. Client Message is Received  
+<img src="https://github.com/user-attachments/assets/b0ee8bb5-e600-46bd-b957-8b14a410ab23" width="400"/>
+
+---
+
+
 
 ## ⚡ Quick Start
 
