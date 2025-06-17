@@ -1,0 +1,23 @@
+OS
+system software
+acts as an interface between user and hardware
+
+system call - command prompt
+
+need of os > to not make users to repeatedly writing individual program to access the hardware
+
+provide convenience -> windows more 
+
+throughput(no of tasks executed per unit time) -> Linux
+
+functionalities
+>resource manager(managing access of hardware or software resources to users)
+>process manager(managing execution of multiple process)-> cpu scheduling (how processes are done on cpu)
+>storage(hard disk)(file system)->(how data is stored in storage)
+>memmory management(ram->limitation of size)(multiprogramming)(allocation and deallocation of memory)
+>security and privacy(authentication-password)
+
+
+types
+
+batch os
