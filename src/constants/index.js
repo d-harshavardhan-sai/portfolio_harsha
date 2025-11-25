@@ -72,37 +72,10 @@ const techStackImgs = [
 ];
 
 const techStackIcons = [
-  {
-    name: "Java Programmer",
-    modelPath: "/models/java.glb",
-    scale: 1.25,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "React",
-    modelPath: "/models/react_logo-transformed.glb",
-    scale: 1,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Node",
-    modelPath: "/models/node-transformed.glb",
-    scale: 5,
-    rotation: [0, -Math.PI / 2, 0],
-  },
-  {
-    name: "Tailwind CSS",
-    modelPath: "/models/3.glb",
-    scale: 1.5,
-    rotation: [0, 0, 0],
-  },
-  {
-    name: "Version Control",
-    modelPath: "/models/git-svg-transformed.glb",
-    scale: 0.05,
-    rotation: [0, -Math.PI / 4, 0],
-  },
+     //Code here please To add 3d models to show my skills
+     
 ];
+
 
 const expCards = [
   
